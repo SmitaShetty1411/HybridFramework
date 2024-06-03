@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-10T10:17:42 IST" name="Ebay.com Website Test Extent Report " finished-at="2024-03-10T10:18:58 IST" duration-ms="75951">
+    <groups>
+    </groups>
+    <test started-at="2024-03-10T10:17:42 IST" name="ebay.com Website test" finished-at="2024-03-10T10:18:58 IST" duration-ms="75951">
+      <class name="com.cermati.qa.automation.testscripts.Ebay_Website_URL_Lanching">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cermati.qa.automation.testscripts.Ebay_Website_URL_Lanching@5be49b60]" started-at="2024-03-10T10:17:42 IST" name="setup" finished-at="2024-03-10T10:17:58 IST" duration-ms="16226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifytheHomePagetitle()[pri:0, instance:com.cermati.qa.automation.testscripts.Ebay_Website_URL_Lanching@5be49b60]" started-at="2024-03-10T10:17:58 IST" name="verifytheHomePagetitle" finished-at="2024-03-10T10:17:58 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytheHomePagetitle -->
+        <test-method is-config="true" signature="ClosingtheBrowser()[pri:0, instance:com.cermati.qa.automation.testscripts.Ebay_Website_URL_Lanching@5be49b60]" started-at="2024-03-10T10:17:58 IST" name="ClosingtheBrowser" finished-at="2024-03-10T10:17:59 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingtheBrowser -->
+      </class> <!-- com.cermati.qa.automation.testscripts.Ebay_Website_URL_Lanching -->
+      <class name="com.cermati.qa.automation.testscripts.Ebay_ProductAccess_viaSearch">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cermati.qa.automation.testscripts.Ebay_ProductAccess_viaSearch@f99f5e0]" started-at="2024-03-10T10:18:35 IST" name="setup" finished-at="2024-03-10T10:18:43 IST" duration-ms="7683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test_AccessProduct_ViaSearch()[pri:0, instance:com.cermati.qa.automation.testscripts.Ebay_ProductAccess_viaSearch@f99f5e0]" started-at="2024-03-10T10:18:43 IST" name="Test_AccessProduct_ViaSearch" finished-at="2024-03-10T10:18:56 IST" duration-ms="13394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_AccessProduct_ViaSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cermati.qa.automation.testscripts.Ebay_ProductAccess_viaSearch@f99f5e0]" started-at="2024-03-10T10:18:56 IST" name="tearDown" finished-at="2024-03-10T10:18:58 IST" duration-ms="1433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cermati.qa.automation.testscripts.Ebay_ProductAccess_viaSearch -->
+      <class name="com.cermati.qa.automation.testscripts.Ebay_Access_Product_via_category_after_applying_multiple_filters">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cermati.qa.automation.testscripts.Ebay_Access_Product_via_category_after_applying_multiple_filters@c7045b9]" started-at="2024-03-10T10:17:59 IST" name="setup" finished-at="2024-03-10T10:18:07 IST" duration-ms="7615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AccessProductViaCategory()[pri:0, instance:com.cermati.qa.automation.testscripts.Ebay_Access_Product_via_category_after_applying_multiple_filters@c7045b9]" started-at="2024-03-10T10:18:07 IST" name="AccessProductViaCategory" finished-at="2024-03-10T10:18:34 IST" duration-ms="27270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccessProductViaCategory -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cermati.qa.automation.testscripts.Ebay_Access_Product_via_category_after_applying_multiple_filters@c7045b9]" started-at="2024-03-10T10:18:34 IST" name="tearDown" finished-at="2024-03-10T10:18:35 IST" duration-ms="1575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cermati.qa.automation.testscripts.Ebay_Access_Product_via_category_after_applying_multiple_filters -->
+    </test> <!-- ebay.com Website test -->
+  </suite> <!-- Ebay.com Website Test Extent Report  -->
+</testng-results>

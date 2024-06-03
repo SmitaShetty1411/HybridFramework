@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ebay.com Website Test Extent Report ">
+  
+		<listeners>
+		<listener class-name="com.cermati.qa.automation.extentReport.ExtentReporterNG" />
+	</listeners>
+
+
+ 
+	<test name="ebay.com Website test"> 
+		<classes>
+			<class name="com.cermati.qa.automation.testscripts.Ebay_Website_URL_Lanching"></class>
+			<class name="com.cermati.qa.automation.testscripts.Ebay_Access_Product_via_category_after_applying_multiple_filters"></class>
+            <class name="com.cermati.qa.automation.testscripts.Ebay_ProductAccess_viaSearch"></class>
+            
+            
+		</classes>
+	</test>
+</suite>
